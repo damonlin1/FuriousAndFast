@@ -1,1 +1,2 @@
- Furious and Fast, a blazing fast CS 3 production where players get to race AI drivers in a series of different race cars and tracks.
+## Furious and Fast
+Car racing game written in C. Challenge the computer on dynamic tracks, mastering varying difficulty levels with a fleet of unique cars.
